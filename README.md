@@ -1,5 +1,5 @@
 # DH-COURSE
-#[Наша главная таблица](https://docs.google.com/spreadsheets/d/1wDpi9H6oihzBkONEnfCjXnCQejizA4ZSP0hOYuLcQKo/edit#gid=0)
+# [Наша главная таблица](https://docs.google.com/spreadsheets/d/1wDpi9H6oihzBkONEnfCjXnCQejizA4ZSP0hOYuLcQKo/edit#gid=0)
 
 ## 14/04 Введение
 [Презентация](https://docs.google.com/presentation/d/1pALWYJ-0LLhY2vmkVJYF9Djv2IE95GJ3HmJjMkFT90E/edit#slide=id.g22df30d2e72_2_49)
@@ -14,8 +14,8 @@
 5. Разместить ваше описание и ссылки в гуглдоке. Не забыть дать доступ для редактирования по ссылке. Вставить ссылку на гуглдок в колонку с первым дз в нашей таблице (та же вкладка "ДЗ ССЫЛКИ")
 
 Ссылки для серфинга, можно найти проект, который нравится, сформулировать тему, а остальное добрать гуглом:
-*[Проекты Европейской ассоциации DH](https://eadh.org/projects)
-*[Европеана](https://www.europeana.eu/en)
-*[Проекты, получившие DHAward](http://dhawards.org/)
-*[Проекты DARIAH - европейской инфраструктуры Digital humanities](https://www.dariah.eu/activities/projects-list/) тут большие инфраструктурные проекты, можно погружаться в них и смотреть конкретику
+* [Проекты Европейской ассоциации DH](https://eadh.org/projects)
+* [Европеана](https://www.europeana.eu/en)
+* [Проекты, получившие DHAward](http://dhawards.org/)
+* [Проекты DARIAH - европейской инфраструктуры Digital humanities](https://www.dariah.eu/activities/projects-list/) тут большие инфраструктурные проекты, можно погружаться в них и смотреть конкретику
 *Лайфхак - если набрать в гугле DH projects catalog, то вам выпадут списки проектов огромного количества университетов, их можно полистать и найти что-то, что зацепило, а дальше уже искать более прицельно. 
