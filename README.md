@@ -1,5 +1,8 @@
 # DH-COURSE
 # [Наша главная таблица](https://docs.google.com/spreadsheets/d/1wDpi9H6oihzBkONEnfCjXnCQejizA4ZSP0hOYuLcQKo/edit#gid=0)
+# [Вечная ссылка на конференцию](https://us02web.zoom.us/j/6153980567?pwd=T3JuNThrMVp2d0t3cnowMXF3M1hHUT09)
+      Идентификатор конференции: 615 398 0567
+      Код доступа: 1EP96N
 
 ## 21/04 Каталоги проектов
 тут будет видео, когда оно закачается
