@@ -5,7 +5,9 @@
       Код доступа: 1EP96N
 
 ## 21/04 Каталоги проектов
-тут будет видео, когда оно закачается
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8tZR48gbCXM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ДЗ к предыдущему занятию еще можно сдать до 27.04 23:59. Инструкцию см. ниже
 
 ## ДЗ к 28.04
