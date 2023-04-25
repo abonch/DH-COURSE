@@ -1,6 +1,15 @@
 # DH-COURSE
 # [Наша главная таблица](https://docs.google.com/spreadsheets/d/1wDpi9H6oihzBkONEnfCjXnCQejizA4ZSP0hOYuLcQKo/edit#gid=0)
 
+## 21/04 Каталоги проектов
+тут будет видео, когда оно закачается
+ДЗ к предыдущему занятию еще можно сдать до 27.04 23:59. Инструкцию см. ниже
+
+## ДЗ к 28.04
+1. Прочитайте статью ["Quantitative Analysis of Culture
+Using Millions of Digitized Books"](https://drive.google.com/file/d/11jA5fBXUa-WBZDQRE-0OajXqbMuaFMea/view?usp=sharing)
+2. Заполните [форму](https://forms.gle/AJVPEGUb1C154JeG6). В ней нужно записать все, что вам было непонятно, и все, что вам интересно будет обсудить. 
+
 ## 14/04 Введение
 [Презентация](https://docs.google.com/presentation/d/1pALWYJ-0LLhY2vmkVJYF9Djv2IE95GJ3HmJjMkFT90E/edit#slide=id.g22df30d2e72_2_49)
 
