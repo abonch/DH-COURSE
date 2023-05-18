@@ -4,6 +4,14 @@
       Идентификатор конференции: 615 398 0567
       Код доступа: 1EP96N
 
+## 12/05 Культуромика
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/72_xFbI9KwI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## ДЗ к 19/05
+1. Прочитайте статью ["Что такое семантическое издание и почему в будущем все издания будут семантическими"](http://nevmenandr.net/personalia/9781618117786_gronas_orekhov.pdf)
+2. Заполните [форму](https://forms.gle/Cnqtc17TcSNSmZ5R8). Нужно вписать все, что было непонятно, и все, что интересно обсудить. 
+
 ## 21/04 Каталоги проектов
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8tZR48gbCXM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
