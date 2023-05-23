@@ -4,9 +4,29 @@
       Идентификатор конференции: 615 398 0567
       Код доступа: 1EP96N
 
+## 19/05 Цифровое сохранение. Разметка.
+Видео в двух частях
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SD_3Ff339r4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ReAAVjbMIO0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+[Презентация](https://docs.google.com/presentation/d/1QqFLb0kixH7Rv-j0bAUFZ9Zk1vF9j-UE/edit?usp=share_link&ouid=117911942358228852350&rtpof=true&sd=true)
+
+## ДЗ к 26/05
+Читаем сложные статьи
+[Статья про Linked open data  для культурного наследия](https://drive.google.com/file/d/1JO9klIQiC2aEVLcbjnvssoPBXQnb8kIS/view?usp=share_link)
+[Cтатья про стандарт CIDOC](https://drive.google.com/file/d/1H2a_mBvRyMx4ixBzBkxUJ6VEbvyncl0L/view?usp=share_link)
+[Статья про CIDOC  и TEI](https://drive.google.com/drive/folders/1qg1BFHGrRfOexM1XTy8UMNaxYGA4Frat)
+
+[ФОРМА ДЛЯ ВОПРОСОВ](https://forms.gle/gKYK5Wd8v5Zr7zRVA)
+
+
+
+
 ## 12/05 Культуромика
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/72_xFbI9KwI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[Презентация](https://docs.google.com/presentation/d/1QqFLb0kixH7Rv-j0bAUFZ9Zk1vF9j-UE/edit?usp=share_link&ouid=117911942358228852350&rtpof=true&sd=true)
 
 ## ДЗ к 19/05
 1. Прочитайте статью ["Что такое семантическое издание и почему в будущем все издания будут семантическими"](http://nevmenandr.net/personalia/9781618117786_gronas_orekhov.pdf)
